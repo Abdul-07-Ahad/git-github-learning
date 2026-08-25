@@ -10,3 +10,6 @@ Learning Git reset
 ## Branch Practice
 
 I am learning how Git branches work.
+## GitHub Workflow
+
+I am learning branches, merging, pull requests, and collaboration.
