@@ -7,3 +7,6 @@ This repository is where I am learning Git and GitHub from scratch.
 - GitHub
 - GitHub Actions
 Learning Git reset
+## Branch Practice
+
+I am learning how Git branches work.
