@@ -1,6 +1,6 @@
 # Git and GitHub Learning
 
-This repository is where I am learning Git and GitHub from scratch.
+This repository is where I am learning Git and GitHub , and advance DevOps.
 ## What I am learning
 
 - Git
