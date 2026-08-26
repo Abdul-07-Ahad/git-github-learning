@@ -12,3 +12,4 @@ Learning Git reset
 ## Branch Practice
 
 I am learning how Git branches work.
+Main branch updated before rebase
