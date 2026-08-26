@@ -13,3 +13,4 @@ Learning Git reset
 
 I am learning how Git branches work.
 Main branch updated before rebase
+Version 1.1 work
