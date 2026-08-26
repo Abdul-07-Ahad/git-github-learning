@@ -1,6 +1,8 @@
 # Git and GitHub Learning
 
-This repository is where I am learning Git and GitHub , and AI engineering.
+
+This repository is where I am learning Git and GitHub , AI engineering and DevOps.
+
 ## What I am learning
 
 - Git
